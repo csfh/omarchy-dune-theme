@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="dune-banner.png" alt="Dune banner" width="100%">
+  <img src="dune-banner.webp" alt="Dune banner" width="100%">
 </p>
 
 # Omarchy Dune Theme
@@ -40,13 +40,13 @@ Desktop, terminal, editor, launcher, notification, bar, lock screen, browser, Di
 
 ## Backgrounds
 
-The wallpapers are original illustrations:
+The wallpapers are original illustrations, Lanczos-scaled to 4K:
 
-- [`arrakeen-court`](backgrounds/arrakeen-court.png) — the throne hall in the desert keep
-- [`giedi-prime`](backgrounds/giedi-prime.png) — the industrial court
-- [`caladan`](backgrounds/caladan.png) — the cliff keep in the rain
-- [`shai-hulud`](backgrounds/shai-hulud.png) — the worm in the dunes
-- [`guild-navigator`](backgrounds/guild-navigator.png) — the tank in the spice hall
+- [`arrakeen-court`](backgrounds/arrakeen-court.webp) — the throne hall in the desert keep
+- [`giedi-prime`](backgrounds/giedi-prime.webp) — the industrial court
+- [`caladan`](backgrounds/caladan.webp) — the cliff keep in the rain
+- [`shai-hulud`](backgrounds/shai-hulud.webp) — the worm in the dunes
+- [`guild-navigator`](backgrounds/guild-navigator.webp) — the tank in the spice hall
 
 ## License
 
