@@ -3,3 +3,4 @@
 *.pem
 *.key
 .DS_Store
+/.worktrees/
